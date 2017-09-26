@@ -5,8 +5,8 @@ class Luarocks < Formula
   homepage 'https://luarocks.org'
 
   stable do
-    url 'https://github.com/luarocks/luarocks/archive/v2.4.2.tar.gz'
-    sha256 'eef88c2429c715a7beb921e4b1ba571dddb7c74a250fbb0d3cc0d4be7a5865d9'
+    url 'https://github.com/luarocks/luarocks/archive/v2.4.3.tar.gz'
+    sha256 'ea1881d6954f2a98c34f93674571c8f0cbdbc28dedb3fa3cb56b6a91886d1a99'
   end
 
   depends_on "homebrew/nginx/openresty"
